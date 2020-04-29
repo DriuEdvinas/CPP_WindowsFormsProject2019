@@ -1,0 +1,16 @@
+﻿  AboutForm.cpp
+  AdminForm.cpp
+  Concerts.cpp
+  Festivals.cpp
+  Form1.cpp
+  HelpForm.cpp
+  Kumite.cpp
+e:\documets\baigiamasis\project\Kumite.h(54): warning C4376: access specifier 'private private:' is no longer supported: please use 'private:' instead
+  Login.cpp
+  Main.cpp
+  MainForm.cpp
+  MyUserControl1.cpp
+  People.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Project.vcxproj -> E:\Documets\Baigiamasis\Project\x64\Debug\Project.exe

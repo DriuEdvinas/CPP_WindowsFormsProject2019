@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Menu">
+      <UniqueIdentifier>{378f8f7e-2ef9-4a49-b7f1-6f741b0493bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu">
+      <UniqueIdentifier>{a2f2cbf6-ef91-4cb2-afd6-e9bf4f9fb1e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Admin%27s panel">
+      <UniqueIdentifier>{e3d366a6-6ed4-479d-82a7-59c6a57d84c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Admin%27s panel">
+      <UniqueIdentifier>{d49ae43b-c9c8-4712-9545-f90a0dac1953}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UserControls">
+      <UniqueIdentifier>{8f50d7f3-8abc-461a-a87f-f997a10cc324}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Tickets">
+      <UniqueIdentifier>{05750a4d-6147-4e83-b42d-a4b6b2d9fce0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tickets">
+      <UniqueIdentifier>{92f8ea80-c181-4aeb-b043-230ad11d27c0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HelpForm.cpp">
+      <Filter>Source Files\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="People.cpp">
+      <Filter>Source Files\Admin%27s panel</Filter>
+    </ClCompile>
+    <ClCompile Include="Festivals.cpp">
+      <Filter>Source Files\Admin%27s panel</Filter>
+    </ClCompile>
+    <ClCompile Include="Concerts.cpp">
+      <Filter>Source Files\Admin%27s panel</Filter>
+    </ClCompile>
+    <ClCompile Include="class_body.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GLOB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BuyConcertTicket.cpp">
+      <Filter>Source Files\Tickets</Filter>
+    </ClCompile>
+    <ClCompile Include="BuyFestivalTicket.cpp">
+      <Filter>Source Files\Tickets</Filter>
+    </ClCompile>
+    <ClCompile Include="PaymentForm.cpp">
+      <Filter>Source Files\Tickets</Filter>
+    </ClCompile>
+    <ClCompile Include="Login.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HelpForm.h">
+      <Filter>Header Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Login.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Festivals.h">
+      <Filter>Header Files\Admin%27s panel</Filter>
+    </ClInclude>
+    <ClInclude Include="Concerts.h">
+      <Filter>Header Files\Admin%27s panel</Filter>
+    </ClInclude>
+    <ClInclude Include="People.h">
+      <Filter>Header Files\Admin%27s panel</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="class_body.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GLOB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BuyConcertTicket.h">
+      <Filter>Header Files\Tickets</Filter>
+    </ClInclude>
+    <ClInclude Include="BuyFestivalTicket.h">
+      <Filter>Header Files\Tickets</Filter>
+    </ClInclude>
+    <ClInclude Include="PaymentForm.h">
+      <Filter>Header Files\Tickets</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MainForm.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpForm.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concerts.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Festivals.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyConcertTicket.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyFestivalTicket.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentForm.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Project.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

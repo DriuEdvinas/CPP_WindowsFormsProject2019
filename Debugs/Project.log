@@ -1,0 +1,27 @@
+﻿  BuyFestivalTicket.cpp
+e:\documets\baigiamasis\project\class_body.h(5): warning C4305: 'initializing': truncation from 'int' to 'char'
+e:\documets\baigiamasis\project\class_body.h(5): warning C4309: 'initializing': truncation of constant value
+  Main.cpp
+e:\documets\baigiamasis\project\class_body.h(5): warning C4305: 'initializing': truncation from 'int' to 'char'
+e:\documets\baigiamasis\project\class_body.h(5): warning C4309: 'initializing': truncation of constant value
+e:\documets\baigiamasis\project\People.h(1781): warning C4101: 'CardYear': unreferenced local variable
+e:\documets\baigiamasis\project\People.h(1781): warning C4101: 'CardMonth': unreferenced local variable
+e:\documets\baigiamasis\project\People.h(1842): warning C4101: 'CardDate': unreferenced local variable
+e:\documets\baigiamasis\project\People.h(1841): warning C4101: 'input': unreferenced local variable
+e:\documets\baigiamasis\project\People.h(1841): warning C4101: 'Birthdate': unreferenced local variable
+e:\documets\baigiamasis\project\Mainform.h(2650): warning C4018: '<': signed/unsigned mismatch
+e:\documets\baigiamasis\project\Mainform.h(2654): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  MainForm.cpp
+e:\documets\baigiamasis\project\class_body.h(5): warning C4305: 'initializing': truncation from 'int' to 'char'
+e:\documets\baigiamasis\project\class_body.h(5): warning C4309: 'initializing': truncation of constant value
+e:\documets\baigiamasis\project\People.h(1781): warning C4101: 'CardYear': unreferenced local variable
+e:\documets\baigiamasis\project\People.h(1781): warning C4101: 'CardMonth': unreferenced local variable
+e:\documets\baigiamasis\project\People.h(1842): warning C4101: 'CardDate': unreferenced local variable
+e:\documets\baigiamasis\project\People.h(1841): warning C4101: 'input': unreferenced local variable
+e:\documets\baigiamasis\project\People.h(1841): warning C4101: 'Birthdate': unreferenced local variable
+e:\documets\baigiamasis\project\MainForm.h(2650): warning C4018: '<': signed/unsigned mismatch
+e:\documets\baigiamasis\project\MainForm.h(2654): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+e:\documets\baigiamasis\project\mainform.h(2652): warning C4700: uninitialized local variable 'percentage' used
+e:\documets\baigiamasis\project\mainform.h(2652): warning C4700: uninitialized local variable 'percentage' used
+  Project.vcxproj -> E:\Documets\Baigiamasis\Project\Debug\Project.exe

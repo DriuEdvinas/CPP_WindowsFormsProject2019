@@ -1,0 +1,5 @@
+ID03#MAKS KORZH concert#Vilnius, Lithuania#2019/04/20*2.7 88MAKS KORZH_After a long break, Maks Korzh returns to Lithuania with is new songs! Vilnius, April 20, Siemens Arena!_
+ID02#Bastille concert#Frankfurt, Germany#2019/06/05*5.3 129Bastille_Bastille tour across Europe_
+ID05#Ed Shaaran concert#Tallin, Estonia#2019/07/04*6.4 152Ed Sheeran_Ed Sheeran tour across Europe & the UK._
+ID01#Ed Sheeran concert#Riga, Latvia#2019/07/12*6.2 54Ed Sheeran_Ed Sheeran tour across Europe & the UK._
+ID04#Shawn Mendes concert#London, UK#2020/01/12*6.2 216Shawn Mendes_Shawn Mendes Tour across Europe and USA_
